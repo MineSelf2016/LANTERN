@@ -1,3 +1,4 @@
+## LANTERN (Large lAnguage model-powered TCR-Enhanced Recognition Network)
 
 This is the reporsitory for LANTERN model which is now under peer review.
 
